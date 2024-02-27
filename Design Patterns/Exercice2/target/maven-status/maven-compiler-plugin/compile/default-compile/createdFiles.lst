@@ -1,0 +1,10 @@
+org\salah\filters\FilterImpl1.class
+org\salah\filters\ImageFilter.class
+org\salah\compresers\CompressionZip.class
+org\salah\filters\OldFilterImpl.class
+org\salah\ImageProcessingFramework.class
+org\salah\Main.class
+org\salah\compresers\CompressionRar.class
+org\salah\compresers\ImageCompressor.class
+org\salah\filters\FilterImpl2.class
+org\salah\filters\OldFilter.class
